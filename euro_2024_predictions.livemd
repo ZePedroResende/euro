@@ -1,0 +1,11 @@
+<!-- livebook:{"file_entries":[{"file":{"file_system_id":"local","file_system_type":"local","path":"/Users/resende/Developer/elixir/euro/euro_2024_predictions.livemd"},"name":"euro_2024_predictions.livemd","type":"file"}]} -->
+
+# Untitled notebook
+
+## Section
+
+```elixir
+
+```
+
+<!-- livebook:{"offset":276,"stamp":{"token":"XCP.n_VfaaqG9eIivsNck6ikQHhT907AaUavdvB-PJsTAbpXtM5TkdTziC3vBZf-LEkkvhNTUh1qgO7f7dquoIUDCbFhZF5gYE5yZAKukg","version":2}} -->
