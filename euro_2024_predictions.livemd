@@ -1,11 +1,51 @@
 <!-- livebook:{"file_entries":[{"file":{"file_system_id":"local","file_system_type":"local","path":"/Users/resende/Developer/elixir/euro/euro_2024_predictions.livemd"},"name":"euro_2024_predictions.livemd","type":"file"}]} -->
 
-# Untitled notebook
+# Euro 2024 predictions
 
 ## Section
+
+For data we are gonna use the datasets from :
+
+1 - https://github.com/openfootball/euro
+
+2 - https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+
+<!-- livebook:{"break_markdown":true} -->
+
+### NPL/ Sentiment analysis
+
+https://github.com/vdrvar/euro2024_nlp_predictor
+
+leverages advanced Natural Language Processing (NLP) and machine learning techniques to analyze football news from prominent magazines and predict public sentiment for UEFA Euro 2024.
+
+### ML/Simple statistics
+
+#### Random forest regresssion
+
+https://github.com/mikedouzinas/euros-predictor
+
+#### Bayesian model
+
+https://github.com/Neehan/soccer-wc-pred
+
+https://www.researchgate.net/publication/281763177_A_Bayesian_Approach_to_Predicting_Football_Match_Outcomes_Considering_Time_Effect_Weight
+
+[Estimates Bayesian bivariate Poisson model. For more details, see Equation (2) of Benz and Lopez, 2021](https://github.com/lbenz730/intl_soccer_2024)
+https://lukebenz.com/post/intl_soccer_2024/
+
+https://github.com/sslp23/eurocup_sim
+
+#### MLP neural net
+
+https://github.com/PatrickDeu/Forecasting-EURO-2024/tree/main
+
+#### Neural net
+
+https://github.com/erensglm/Euro2024Predictor/blob/main/EuroPredDemo.ipynb
+https://www.kaggle.com/code/sslp23/predicting-fifa-2022-world-cup-with-ml
 
 ```elixir
 
 ```
 
-<!-- livebook:{"offset":276,"stamp":{"token":"XCP.n_VfaaqG9eIivsNck6ikQHhT907AaUavdvB-PJsTAbpXtM5TkdTziC3vBZf-LEkkvhNTUh1qgO7f7dquoIUDCbFhZF5gYE5yZAKukg","version":2}} -->
+<!-- livebook:{"offset":1567,"stamp":{"token":"XCP.PObpC1o19kQLQ10PmKhaVTFY094-JodGns4fml1Wp29-Y7Dy8hg8A-zDNXlzkJH0Jqhfx9veTzvGMHTtyvQ4eLkIaP4-WUBBpz9t1R92hFh-9RaMGCzpoF72hMW6FOXO_SLf9vIfzwWt41J9RmMIN6Gk","version":2}} -->
